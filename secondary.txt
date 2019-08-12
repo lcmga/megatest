@@ -1,3 +1,6 @@
+This file was changed after the "stuff" branch
+was merged into the master.
+
 This is the secondary file in the "user" branch.
 
 What's the point?
